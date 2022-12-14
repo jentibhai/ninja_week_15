@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Desktop Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.320">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="0.911" classname="com.tutorial.demo.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="0.761" classname="com.tutorial.demo.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="0.648" classname="com.tutorial.demo.testsuite.HomePageTest" />
+      
+</testsuite>
